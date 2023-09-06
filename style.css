@@ -89,10 +89,14 @@ canvas {
     height: 10px;
 }
 
-.button__size[data-size="20"] > span {
+.button__size[data-size="18"] > span {
     height: 18px;
 }
 
-.button__size[data-size="30"] > span {
+.button__size[data-size="26"] > span {
     height: 26px;
+}
+
+.active {
+    background-color: #eeeeee;
 }
